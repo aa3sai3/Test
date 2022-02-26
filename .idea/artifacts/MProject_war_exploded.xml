@@ -2,11 +2,6 @@
   <artifact type="exploded-war" name="MProject:war exploded">
     <output-path>$PROJECT_DIR$/out/artifacts/MProject_war_exploded</output-path>
     <root id="root">
-      <element id="directory" name="WEB-INF">
-        <element id="directory" name="classes">
-          <element id="module-output" name="MProject" />
-        </element>
-      </element>
       <element id="javaee-facet-resources" facet="MProject/web/Web" />
     </root>
   </artifact>
