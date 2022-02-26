@@ -6,22 +6,11 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fec310a9-fc0b-4183-8fbd-caee605dc710" name="Default Changelist" comment="test01">
-      <change afterPath="$PROJECT_DIR$/.idea/MProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="fec310a9-fc0b-4183-8fbd-caee605dc710" name="Default Changelist" comment="test03&#10;xjh">
+      <change beforePath="$PROJECT_DIR$/.idea/MProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/MProject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
-    <list id="663c2d76-b278-4216-894e-1cdb5672a0d0" name="Revert &quot;test01&quot;" comment="Revert &quot;test01&quot;&#10;&#10;This reverts commit 24fd008d">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/MProject_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/MProject_war_exploded.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MProject.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/MProject_war_exploded/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/MProject_war_exploded/index.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/index.jsp" beforeDir="false" />
-    </list>
+    <list id="663c2d76-b278-4216-894e-1cdb5672a0d0" name="Revert &quot;test01&quot;" comment="Revert &quot;test01&quot;&#10;&#10;hello..." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,10 +62,10 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Artifacts" />
-    <property name="project.structure.proportion" value="0.28444445" />
-    <property name="project.structure.side.proportion" value="0.32348368" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/web/WEB-INF/lib" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.14251782" />
+    <property name="project.structure.side.proportion" value="0.14787431" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunManager">
@@ -197,7 +186,7 @@
       <workItem from="1645787208035" duration="8627000" />
       <workItem from="1645796429515" duration="1241000" />
       <workItem from="1645797730535" duration="1010000" />
-      <workItem from="1645861513191" duration="1108000" />
+      <workItem from="1645861513191" duration="2603000" />
     </task>
     <task id="LOCAL-00001" summary="hello">
       <created>1645770450946</created>
@@ -479,7 +468,35 @@
       <option name="project" value="LOCAL" />
       <updated>1645796670270</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="test02">
+      <created>1645862653037</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1645862653037</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Revert &quot;test01&quot;&#10;&#10;This reverts commit 24fd008d">
+      <created>1645862788809</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1645862788809</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Revert &quot;test01&quot;&#10;&#10;hello...">
+      <created>1645862924268</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1645862924268</updated>
+    </task>
+    <task id="LOCAL-00044" summary="test03&#10;xjh">
+      <created>1645863047653</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1645863047653</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -577,6 +594,10 @@
     <MESSAGE value="hello..." />
     <MESSAGE value="hello" />
     <MESSAGE value="test01" />
-    <option name="LAST_COMMIT_MESSAGE" value="test01" />
+    <MESSAGE value="test02" />
+    <MESSAGE value="Revert &quot;test01&quot;&#10;&#10;This reverts commit 24fd008d" />
+    <MESSAGE value="Revert &quot;test01&quot;&#10;&#10;hello..." />
+    <MESSAGE value="test03&#10;xjh" />
+    <option name="LAST_COMMIT_MESSAGE" value="test03&#10;xjh" />
   </component>
 </project>
